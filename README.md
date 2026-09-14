@@ -23,7 +23,7 @@ miner by default has a 10% donation system built into source code
 # Working Example Solo Pool Nodes
 
 ``` echo \
-public-pool.io:3333 (3.0% fee)
-solo.ckpool.org:3333 (0.0% fee)
+public-pool.io:3333 (0.0% fee)
+solo.ckpool.org:3333 (3.0% fee)
 solo.atlaspool.io:3333 (1.5% fee)
 ```
