@@ -18,3 +18,11 @@ XTSoloBTC solo.ckpool.org:3333 bc1q9v4xhszq4tecl93892wnqw5a2q8dqfrph37ca0
 ```
 
 miner by default has a 10% donation system built into source code
+
+
+# Working Example Solo Pool Nodes
+
+``` echo \
+public-pool.io:3333
+solo.ckpool.org:3333
+```
