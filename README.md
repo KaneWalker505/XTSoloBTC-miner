@@ -10,7 +10,8 @@ Bitcoin sha256d Solo Miner
 XTSoloBTC.exe solo.ckpool.org:3333 bc1q9v4xhszq4tecl93892wnqw5a2q8dqfrph37ca0
 
 --Example (Unix/Linux)
+
 XTSoloBTC solo.ckpool.org:3333 bc1q9v4xhszq4tecl93892wnqw5a2q8dqfrph37ca0
 
 
-default has a 10% donation system built in
+miner by default has a 10% donation system built into source code
