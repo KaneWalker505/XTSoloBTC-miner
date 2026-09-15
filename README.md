@@ -17,9 +17,10 @@ XTSoloBTC.exe solo.ckpool.org:3333 bc1q9v4xhszq4tecl93892wnqw5a2q8dqfrph37ca0
 XTSoloBTC solo.ckpool.org:3333 bc1q9v4xhszq4tecl93892wnqw5a2q8dqfrph37ca0
 ```
 
+# (Donation System Removed Version)
+
 miner by default has a 10% donation system built into source code
 
-# (Donation System Removed Version)
 
 ``` echo \
 https://payhip.com/b/V9oFa
